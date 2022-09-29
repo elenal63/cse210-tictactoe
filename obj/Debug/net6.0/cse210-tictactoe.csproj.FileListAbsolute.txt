@@ -1,0 +1,15 @@
+/Users/elenaleon/Documents/GitHub/cse210-tictactoe/bin/Debug/net6.0/cse210-tictactoe
+/Users/elenaleon/Documents/GitHub/cse210-tictactoe/bin/Debug/net6.0/cse210-tictactoe.deps.json
+/Users/elenaleon/Documents/GitHub/cse210-tictactoe/bin/Debug/net6.0/cse210-tictactoe.runtimeconfig.json
+/Users/elenaleon/Documents/GitHub/cse210-tictactoe/bin/Debug/net6.0/cse210-tictactoe.dll
+/Users/elenaleon/Documents/GitHub/cse210-tictactoe/bin/Debug/net6.0/cse210-tictactoe.pdb
+/Users/elenaleon/Documents/GitHub/cse210-tictactoe/obj/Debug/net6.0/cse210-tictactoe.csproj.AssemblyReference.cache
+/Users/elenaleon/Documents/GitHub/cse210-tictactoe/obj/Debug/net6.0/cse210-tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenaleon/Documents/GitHub/cse210-tictactoe/obj/Debug/net6.0/cse210-tictactoe.AssemblyInfoInputs.cache
+/Users/elenaleon/Documents/GitHub/cse210-tictactoe/obj/Debug/net6.0/cse210-tictactoe.AssemblyInfo.cs
+/Users/elenaleon/Documents/GitHub/cse210-tictactoe/obj/Debug/net6.0/cse210-tictactoe.csproj.CoreCompileInputs.cache
+/Users/elenaleon/Documents/GitHub/cse210-tictactoe/obj/Debug/net6.0/cse210-tictactoe.dll
+/Users/elenaleon/Documents/GitHub/cse210-tictactoe/obj/Debug/net6.0/refint/cse210-tictactoe.dll
+/Users/elenaleon/Documents/GitHub/cse210-tictactoe/obj/Debug/net6.0/cse210-tictactoe.pdb
+/Users/elenaleon/Documents/GitHub/cse210-tictactoe/obj/Debug/net6.0/cse210-tictactoe.genruntimeconfig.cache
+/Users/elenaleon/Documents/GitHub/cse210-tictactoe/obj/Debug/net6.0/ref/cse210-tictactoe.dll
